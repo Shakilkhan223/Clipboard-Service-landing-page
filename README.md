@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="700" src="https://github.com/Shakilkhan223/Clipboard-Service-landing-page/blob/main/images/previewclipboard.jpg?raw=true"  />
+  <img height="500" src="https://github.com/Shakilkhan223/Clipboard-Service-landing-page/blob/main/images/previewclipboard.jpg?raw=true"  />
 </div>
 
 ###
